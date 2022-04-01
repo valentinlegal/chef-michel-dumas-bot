@@ -1,0 +1,75 @@
+{
+  "activities": [
+    "tourner et retourner",
+    "convertir les degrés Fahrenheit en Celsius",
+    "faire des flammes avec du Cognac",
+    "faire des drapeaux avec ses petits couteaux",
+    "appeler la table 55",
+    "donner les restes au cameraman",
+    "répondre aux commentaires des abonnés",
+    "faire la plonge"
+  ],
+  "commands": [
+    {
+      "keys": ["", "help"],
+      "description": "Affiche toutes les commandes disponibles."
+    },
+    {
+      "keys": ["quote", "michel"],
+      "description": "Affiche une citation de Chef Michel Dumas."
+    },
+    {
+      "keys": ["gif", "supernickel", "nickel"],
+      "description": "Affiche un GIF \"Super nickel !\" de Chef Michel Dumas."
+    }
+  ],
+  "gifs": [
+    "https://media.giphy.com/media/WhBVvlnRtn30Dq23de/giphy-downsized.gif"
+  ],
+  "quotes": [
+    "Super nickel !",
+    "Comme ça !",
+    "À la plonge !",
+    "C'est assez",
+    "Pas le temps de niaiser",
+    "Je réserve",
+    "Opération terminée",
+    "Tourne et retourne",
+    "Petits couteaux au repos",
+    "Par-ci par-là",
+    "Égalise",
+    "En effet, c'est prêt",
+    "Maître d'hôtel, le plat de la table 55 est prêt c'est chaud on enlève !",
+    "Une larme d'huile",
+    "Vive le Québec et vive les hot-dogs ! Chien-chaud, hot-dog, hot-dog, chien-chaud ! C'est chaud, on mange !",
+    "Mon mélange secret : paprika marocain et chili broyé, moitié moitié",
+    "Sans patati, patata, frite alors! Parlons frites",
+    "Ma foi cette fois parlons de foie",
+    "La table 55 n'ira pas faire un trip à la campagne mais fera un trip de tripes",
+    "La livraison se fait à cheval",
+    "Au menu : poisson. En anglais : j'm'en fish",
+    "Vérification... Super cool !",
+    "Le Chef ne dort pas, il se repose",
+    "Poivre du moulin noir, le blanc c'est pour les bricoleurs du dimanche",
+    "Ail, j'écrase !",
+    "Concasse grossomodo",
+    "Fond au fond, feu à fond",
+    "Si l'union fait la force, les oignons font la soupe",
+    "On dore sans s'endormir",
+    "Maintenant la balance, on s'en balance",
+    "Parmi tout les pains, il y a le mien",
+    "Crevettes plongent, assiette plonge",
+    "Le gras c'est la santé",
+    "Feu, allume !",
+    "On dresse...",
+    "Oignon, coupe deux !",
+    "On goûte... impecable !",
+    "Ne revenons pas à nos moutons, mais à notre poulet !",
+    "Cuisse tourne",
+    "Le pain là, le pin-ceau",
+    "Le fouet pour le caméraman",
+    "Machine miracle",
+    "Le fond au fond à fond !",
+    "J'ai mis les gants à deux mains, car je vais prendre le riz pour demain à deux mains"
+  ]
+}

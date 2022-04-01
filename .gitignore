@@ -1,0 +1,17 @@
+# App
+*log
+.env
+app/
+chef-michel-dumas-bot*
+go.sum
+TODO.md
+
+# Releases
+releases/*
+!releases/install.sh
+!releases/README.md
+!releases/update.sh
+
+# OS & Editor
+.DS_Store
+.vscode/
